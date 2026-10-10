@@ -3,6 +3,7 @@
 >Info
 
 -Freshmen Student in University of Science and Technology of The Philippines.
+-still studying
 
 <!--
 **jir007/jir007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
